@@ -1,4 +1,5 @@
-![Economy](https://github.com/user-attachments/assets/ff5b0b31-5477-426e-93c4-785afe3ae537)
+<img width="1536" height="1024" alt="ChatGPT Image Mar 24, 2026, 05_59_38 PM" src="https://github.com/user-attachments/assets/6bdd31bf-f0ca-41d5-a58a-ea5fc0b645e8" />
+
 
 **The New Economy: It's not Human... and it's scaling.**
 
