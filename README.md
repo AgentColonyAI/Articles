@@ -6,7 +6,7 @@ I write articles for the AI Systems Architect based on my personal experience de
 
 https://github.com/AgentColonyAI/Articles/edit/main/README.md#:~:text=PEBCAC%20With-,GPUs_,-Why%20%E2%80%9CAgent%20Failure
 
-![Economy](https://github.com/user-attachments/assets/66218dce-1efb-4721-92af-11eed8af4c82)
+<img width="1536" height="1024" alt="ChatGPT Image Mar 24, 2026, 05_59_38 PM" src="https://github.com/user-attachments/assets/bc00147a-1b8e-418a-a127-c4eaed5d5655" />
 
 https://github.com/AgentColonyAI/Articles/edit/main/README.md#:~:text=The-,New,-Economy_%20It%27s%20not
 
