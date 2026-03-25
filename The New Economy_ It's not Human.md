@@ -1,4 +1,6 @@
-**![][image1]The New Economy: It's not Human... and it's scaling.**
+![Economy](https://github.com/user-attachments/assets/ff5b0b31-5477-426e-93c4-785afe3ae537)
+
+**The New Economy: It's not Human... and it's scaling.**
 
 ## ***Humanity’s prosperity powered by trillions of agents with cash, wallets, income, credit, and money to burn 🦞🤖💸🚀***
 
