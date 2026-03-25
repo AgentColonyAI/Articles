@@ -1,4 +1,7 @@
-**![][image1]Your Agent Dies Every Session. So Does Its Memory. Here's How to Fix That. 🦞**  
+![Agent Death](https://github.com/user-attachments/assets/07ce40a3-8b88-4372-97d9-4c861632a2a5)
+
+**Your Agent Dies Every Session. So Does Its Memory. Here's How to Fix That. 🦞**  
+
 **Building the Memory Stack: Primitives, Operations Research, and Cognitive Science for Long \- Running Agents**
 
 I've spent the last several weeks trying to solve a problem that anyone running autonomous agents hits eventually: my agent keeps dying. Not crashing. **DYING**. Every time a context window fills up, the agent loses everything, its task state, its memory of what it's already tried, even its sense of who it is. It wakes up in the next session like a stranger. I tell it to continue a project, and it asks me what project. I tell it to check on a task it reported complete yesterday, and it has no idea what I'm talking about.
