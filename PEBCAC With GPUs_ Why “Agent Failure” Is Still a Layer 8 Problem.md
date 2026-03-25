@@ -1,4 +1,5 @@
-## 
+<img width="1536" height="1024" alt="073228de-ba13-4ddf-adf2-10ef7058caba" src="https://github.com/user-attachments/assets/794e66ea-5c6c-47c7-8e3e-ea4a82815062" />
+
 
 ## **Hey You, 👉 🧑‍💻, PEBCAC (C=GPU): Why “Agent Failure” Is Still a Layer 8 Problem 🪞**
 
